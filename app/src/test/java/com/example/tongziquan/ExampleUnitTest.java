@@ -1,4 +1,4 @@
-package com.example.covid19tracker;
+package com.example.tongziquan;
 
 import org.junit.Test;
 
